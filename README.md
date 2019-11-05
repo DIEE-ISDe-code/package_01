@@ -4,3 +4,5 @@
 - import and use the functions.
 - try to **import the package** itself. What happens?
 - after that you import **only** the package `mypkg`, can you use the functions or the modules?
+
+<https://codeboard.io/projects/138508>
